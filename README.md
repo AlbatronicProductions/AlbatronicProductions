@@ -3,7 +3,11 @@
   <img src="banner.png" alt="Albatronic Productions Banner" width="100%">
 </p>
 
-<h1 align="center">🌠 <strong>Albatronic Productions</strong></h1>
+<p align="center">
+  <em>Visualizing the cosmos through code and creativity.</em>
+</p>
+
+<h1 align="center">🌠 Albatronic Productions</h1>
 
 <p align="center">
   <em>Coding cosmological animations with AI — bridging astrophysics and art through generative design, orbital simulations, and open-source exploration.</em>
@@ -46,13 +50,16 @@ Exploring simulations, gaming, and original music.
 ## 🧭 Connect
 
 <p align="center">
-  <a href="https://AlbatronicProductions.GitHub.io/"><b>🌍 GitHub Pages</b></a> • 
-  <a href="https://www.YouTube.com/@AlbatronicProductions"><b>🎥 YouTube</b></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AlbatronicProductions">
-    <img src="https://img.shields.io/github/followers/AlbatronicProductions?label=Follow%20on%20GitHub&style=social">
+  <a href="https://github.com/AlbatronicProductions" title="Visit the Albatronic Productions GitHub Profile">
+    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00FFFF">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@AlbatronicProductions" title="Watch on YouTube — Albatronic Productions">
+    <img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF00FF&labelColor=0A0A0A&color=FF00FF">
+  </a>
+  &nbsp;
+  <a href="https://albatronicproductions.github.io/" title="Visit the Official Website">
+    <img alt="Website" src="https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=0A0A0A&color=00FFFF">
   </a>
 </p>
 
