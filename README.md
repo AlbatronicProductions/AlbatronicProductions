@@ -19,7 +19,7 @@
 
 **[ECI Frame Geostatic Simulation v0.1](https://GitHub.com/AlbatronicProductions/ECI-Frame-Geostatic-Simulation-v0.1)**  
 🌍 An <strong>Earth-Centered Inertial (ECI)</strong> simulation visualizing orbital mechanics, precession, and day cycles from a geostatic perspective.  
-🛰️ Built entirely in <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code> — no dependencies, no frameworks.  
+🛰️ Built entirely in <code>HTML</code> — no dependencies, no frameworks.  
 
 🎬 **Live Demo:**  
 [▶️ AlbatronicProductions.github.io/ECI-Frame-Geostatic-Simulation-v0.1](https://AlbatronicProductions.github.io/ECI-Frame-Geostatic-Simulation-v0.1/)
