@@ -51,15 +51,15 @@ Exploring simulations, gaming, and original music.
 
 <p align="center">
   <a href="https://github.com/AlbatronicProductions" title="Visit the Albatronic Productions GitHub Profile">
-    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00FFFF">
+    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=0A0A0A&color=111827">
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@AlbatronicProductions" title="Watch on YouTube — Albatronic Productions">
-    <img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF00FF&labelColor=0A0A0A&color=FF00FF">
+    <img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-7E22CE?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=0A0A0A&color=7E22CE">
   </a>
   &nbsp;
   <a href="https://albatronicproductions.github.io/" title="Visit the Official Website">
-    <img alt="Website" src="https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=0A0A0A&color=00FFFF">
+    <img alt="Website" src="https://img.shields.io/badge/WEBSITE-0E7490?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF&labelColor=0A0A0A&color=0E7490">
   </a>
 </p>
 
